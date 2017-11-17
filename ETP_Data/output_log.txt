@@ -1,0 +1,58 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in 12.479 seconds
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Utilisateur\Desktop\ETP\ETP_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 49.371254 ms
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 53.296654 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1312.
+Total: 0.849088 ms (FindLiveObjects: 0.186612 ms CreateObjectMapping: 0.057850 ms MarkObjects: 0.590629 ms  DeleteObjects: 0.012596 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.692112 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 0.544909 ms (FindLiveObjects: 0.075111 ms CreateObjectMapping: 0.040121 ms MarkObjects: 0.390954 ms  DeleteObjects: 0.037789 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.870082 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 21.812254 ms (FindLiveObjects: 0.059716 ms CreateObjectMapping: 0.037322 ms MarkObjects: 21.676960 ms  DeleteObjects: 0.036389 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 960 -> priority: 1 
+  Thread -> id: 92c -> priority: 1 
